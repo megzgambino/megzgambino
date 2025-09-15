@@ -17,6 +17,8 @@ Experienced polyglot T-shaped engineer with high ownership, exceptional communic
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-00ADD8?style=flat&logo=kotlin&logoColor=white)
+
 
 ### Frameworks & Technologies
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
