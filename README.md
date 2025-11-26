@@ -2,8 +2,6 @@
 
 **Software Engineer | Backend Engineer | Fullstack Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andhika-megantara-69a355132/)
-
 ## 👨‍💻 About Me
 
 Experienced polyglot T-shaped engineer with high ownership, exceptional communication skills, and a passion for solving complex problems. Built, developed and modernized multiple fintech products including payment gateways, peer-to-peer lending, and multifinance platforms—now on a journey to build a digital bank.
