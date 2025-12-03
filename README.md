@@ -4,7 +4,9 @@
 
 ## 👨‍💻 About Me
 
-Experienced polyglot T-shaped engineer with high ownership, exceptional communication skills, and a passion for solving complex problems. Built, developed and modernized multiple fintech products including payment gateways, peer-to-peer lending, and multifinance platforms—now on a journey to build a digital bank.
+An experienced polyglot T-shaped engineer with high ownership, exceptional communication skills, and a passion for solving complex problems.
+
+I have built, developed and modernized multiple fintech products, including payment gateways, peer-to-peer lending, and multifinance platforms, and I’m now on a journey to build a digital bank.
 
 ## 🛠 Technical Skills
 
