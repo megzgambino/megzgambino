@@ -33,10 +33,13 @@ I have built, developed and modernized multiple fintech products, including paym
 
 ## 💼 Professional Experience
 
-### **Software Engineer** @ [CIMB Niaga](https://www.cimbniaga.co.id)
-*(May 2024 - Present)*
+### **Senior Software Engineer** @ [OCBC](https://www.ocbc.com)
+*(September 2025 - present)*
 
-### **Software Engineer** @ [JULO](https://www.julo.co.id)
+### **Senior Software Engineer** @ [CIMB Niaga](https://www.cimbniaga.co.id)
+*(May 2024 - September 2025)*
+
+### **Software Engineer L2** @ [JULO](https://www.julo.co.id)
 *(May 2022 - May 2024)*
 
 ### **Full Stack Developer** @ [MC Payment](https://www.mcpayment.com)
@@ -45,7 +48,7 @@ I have built, developed and modernized multiple fintech products, including paym
 ## � Education
 
 - **Bachelor of Engineering** - Brawijaya University *(2013-2018)*
-- **Full Stack JavaScript Bootcamp** - Hacktiv8 *(2021)*
+- **Full Stack JavaScript Bootcamp** - Hacktiv8
 
 ## 🏆 Highlights
 
